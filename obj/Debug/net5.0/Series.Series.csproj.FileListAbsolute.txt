@@ -1,0 +1,16 @@
+C:\Users\roney\Documents\DigitalInnovationOne\Series\Series.Series\obj\Debug\net5.0\Series.Series.csproj.AssemblyReference.cache
+C:\Users\roney\Documents\DigitalInnovationOne\Series\Series.Series\obj\Debug\net5.0\Series.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roney\Documents\DigitalInnovationOne\Series\Series.Series\obj\Debug\net5.0\Series.Series.AssemblyInfoInputs.cache
+C:\Users\roney\Documents\DigitalInnovationOne\Series\Series.Series\obj\Debug\net5.0\Series.Series.AssemblyInfo.cs
+C:\Users\roney\Documents\DigitalInnovationOne\Series\Series.Series\obj\Debug\net5.0\Series.Series.csproj.CoreCompileInputs.cache
+C:\Users\roney\Documents\DigitalInnovationOne\Series\Series.Series\bin\Debug\net5.0\Series.Series.exe
+C:\Users\roney\Documents\DigitalInnovationOne\Series\Series.Series\bin\Debug\net5.0\Series.Series.deps.json
+C:\Users\roney\Documents\DigitalInnovationOne\Series\Series.Series\bin\Debug\net5.0\Series.Series.runtimeconfig.json
+C:\Users\roney\Documents\DigitalInnovationOne\Series\Series.Series\bin\Debug\net5.0\Series.Series.runtimeconfig.dev.json
+C:\Users\roney\Documents\DigitalInnovationOne\Series\Series.Series\bin\Debug\net5.0\Series.Series.dll
+C:\Users\roney\Documents\DigitalInnovationOne\Series\Series.Series\bin\Debug\net5.0\ref\Series.Series.dll
+C:\Users\roney\Documents\DigitalInnovationOne\Series\Series.Series\bin\Debug\net5.0\Series.Series.pdb
+C:\Users\roney\Documents\DigitalInnovationOne\Series\Series.Series\obj\Debug\net5.0\Series.Series.dll
+C:\Users\roney\Documents\DigitalInnovationOne\Series\Series.Series\obj\Debug\net5.0\ref\Series.Series.dll
+C:\Users\roney\Documents\DigitalInnovationOne\Series\Series.Series\obj\Debug\net5.0\Series.Series.pdb
+C:\Users\roney\Documents\DigitalInnovationOne\Series\Series.Series\obj\Debug\net5.0\Series.Series.genruntimeconfig.cache
